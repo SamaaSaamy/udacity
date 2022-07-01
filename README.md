@@ -70,3 +70,6 @@ The e2e tests are using Protractor and Jasmine.
 ## License
 
 [License](LICENSE.txt)
+
+### Link for front-end
+udacityprojectudagram.s3-website-us-east-1.amazonaws.com

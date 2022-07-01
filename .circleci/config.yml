@@ -74,5 +74,6 @@ workflows:
           requires:
             - build
       - deploy:
+      artifact: www/Archive.zip
           requires:
             - hold
